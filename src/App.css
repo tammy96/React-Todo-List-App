@@ -101,7 +101,9 @@
     padding: 10px;
     border-radius: 20px;
     margin: 0 5px;
+    cursor: pointer;
   }
+
   .allTodos {
     list-style: none;
     margin: 0;
